@@ -1,0 +1,538 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/trinhdo/Code/KTMT/src
+vALU
+Z1 !s110 1744924458
+!i10b 1
+!s100 Te>K?FSKKaIFHIf64d:n93
+I4`OP9PA=7m8Y0JZJKB^0P1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1744916075
+8C:/Users/trinhdo/Code/KTMT/src/ALU.v
+FC:/Users/trinhdo/Code/KTMT/src/ALU.v
+Z3 L0 28
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1744924458.000000
+!s107 C:/Users/trinhdo/Code/KTMT/src/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/ALU.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@l@u
+vALU_Decoder
+R1
+!i10b 1
+!s100 bT=1X69LKDzJY3FKN`RSe1
+I20N]F8><MCFAKUBGV`SR=2
+R2
+R0
+w1744915379
+8C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder.v
+FC:/Users/trinhdo/Code/KTMT/src/ALU_Decoder.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder.v|
+!i113 1
+R6
+R7
+n@a@l@u_@decoder
+vALU_Decoder_tb
+Z8 !s110 1744924456
+!i10b 1
+!s100 TeH@GmoH@=OX291MB483i3
+IF;NNNmzHGP_Bc[^`3lULL1
+R2
+R0
+w1744919603
+8C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/ALU_Decoder_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1744924456.000000
+!s107 C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder_Tb.v|
+!i113 1
+R6
+R7
+n@a@l@u_@decoder_tb
+vALU_tb
+R8
+!i10b 1
+!s100 X3MD?Q2R0AM>zMd=2[fkJ2
+I@T]]gZJWZY;azIT;UQTz02
+R2
+R0
+w1744919621
+8C:/Users/trinhdo/Code/KTMT/src/ALU_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/ALU_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/trinhdo/Code/KTMT/src/ALU_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/ALU_Tb.v|
+!i113 1
+R6
+R7
+n@a@l@u_tb
+vControl_Unit_Top
+R1
+!i10b 1
+!s100 72L?5WNh?9IIADV`Eg>;_0
+I<oBd5g@0b`o@e?GGG3L]J1
+R2
+R0
+w1744916337
+8C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top.v
+FC:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top.v
+L0 43
+R4
+r1
+!s85 0
+31
+Z10 !s108 1744924457.000000
+Z11 !s107 Main_Decoder.v|ALU_Decoder.v|C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top.v|
+!i113 1
+R6
+R7
+n@control_@unit_@top
+vControl_Unit_Top_tb
+R8
+!i10b 1
+!s100 KU]6El9WAagO<?[GVMJf@2
+I4;UR@594e;d2R9gCDJzcj0
+R2
+R0
+w1744919636
+8C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top_Tb.v|
+!i113 1
+R6
+R7
+n@control_@unit_@top_tb
+vData_Memory
+Z13 !s110 1744924457
+!i10b 1
+!s100 0hE>=b;?HZ`M7kC[_@Hmn1
+I:OBX1W8=bAKLI63XC[4Ze2
+R2
+R0
+w1744916427
+8C:/Users/trinhdo/Code/KTMT/src/Data_Memory.v
+FC:/Users/trinhdo/Code/KTMT/src/Data_Memory.v
+L0 26
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/trinhdo/Code/KTMT/src/Data_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Data_Memory.v|
+!i113 1
+R6
+R7
+n@data_@memory
+vData_Memory_tb
+R8
+!i10b 1
+!s100 l0d2HjKc@ckIULd;eJUUM1
+IhaG<1b7S^j7;KVR^<^:bD0
+R2
+R0
+w1744919649
+8C:/Users/trinhdo/Code/KTMT/src/Data_memory_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/Data_memory_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/trinhdo/Code/KTMT/src/Data_memory_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Data_memory_Tb.v|
+!i113 1
+R6
+R7
+n@data_@memory_tb
+vInstruction_Memory
+R13
+!i10b 1
+!s100 ZN?9[FQ987RSol_P2`n[V3
+Ia6N9=@Y^2e0DRd>[b;k[U3
+R2
+R0
+w1744923885
+8Instruction_Memory.v
+FInstruction_Memory.v
+Z14 L0 30
+R4
+r1
+!s85 0
+31
+R10
+Z15 !s107 Mux.v|PC_Adder.v|Data_Memory.v|Main_Decoder.v|ALU_Decoder.v|Control_Unit_Top.v|ALU.v|Sign_Extend.v|Register_File.v|Instruction_Memory.v|PC.v|C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top.v|
+!i113 1
+R6
+R7
+n@instruction_@memory
+vInstruction_Memory_tb
+R8
+!i10b 1
+!s100 z4c1G]^E;zQnS_4AkXYSH3
+I4oHVUXoTYSE60Xn[6NIE;0
+R2
+R0
+w1744919679
+8C:/Users/trinhdo/Code/KTMT/src/Instruction_Memory_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/Instruction_Memory_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/trinhdo/Code/KTMT/src/Instruction_Memory_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Instruction_Memory_Tb.v|
+!i113 1
+R6
+R7
+n@instruction_@memory_tb
+vMain_Decoder
+R1
+!i10b 1
+!s100 h^g;T=Yn`Fc_hD<IoI:In3
+IJmJGP?`=>38LhBdLJJhQ<0
+R2
+R0
+w1744916517
+8Main_Decoder.v
+FMain_Decoder.v
+L0 25
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R6
+R7
+n@main_@decoder
+vMain_Decoder_tb
+R8
+!i10b 1
+!s100 37JS2CcYzfcL7=<8OmSMA0
+IGDf`OOhg;ch;500:hTjGC2
+R2
+R0
+w1744919688
+8C:/Users/trinhdo/Code/KTMT/src/Main_Decoder_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/Main_Decoder_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/trinhdo/Code/KTMT/src/Main_Decoder_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Main_Decoder_Tb.v|
+!i113 1
+R6
+R7
+n@main_@decoder_tb
+vMux
+R13
+!i10b 1
+!s100 maK_k`a:RBk:bdC;72lef3
+I4c?FciB<=9VB=SGf6LYLi1
+R2
+R0
+w1744916541
+8C:/Users/trinhdo/Code/KTMT/src/Mux.v
+FC:/Users/trinhdo/Code/KTMT/src/Mux.v
+L0 12
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/trinhdo/Code/KTMT/src/Mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Mux.v|
+!i113 1
+R6
+R7
+n@mux
+vMux_tb
+R8
+!i10b 1
+!s100 1LPPb1_QOLf?<UeQcHjT^0
+I4Kd]eO0WganjA=45_m^A;0
+R2
+R0
+w1744919697
+8C:/Users/trinhdo/Code/KTMT/src/Mux_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/Mux_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/trinhdo/Code/KTMT/src/Mux_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Mux_Tb.v|
+!i113 1
+R6
+R7
+n@mux_tb
+vPC_Adder
+R13
+!i10b 1
+!s100 GWnN@z;_VoG`>3EmTE26k1
+IzQe@EINJf0molge2j`4F03
+R2
+R0
+w1744916562
+8C:/Users/trinhdo/Code/KTMT/src/PC_Adder.v
+FC:/Users/trinhdo/Code/KTMT/src/PC_Adder.v
+L0 10
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/trinhdo/Code/KTMT/src/PC_Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/PC_Adder.v|
+!i113 1
+R6
+R7
+n@p@c_@adder
+vPC_Adder_tb
+R8
+!i10b 1
+!s100 VNjiG8;3RNTmknmNabhB@1
+I5>BgMlLH>cSL^QjiI6E9n1
+R2
+R0
+w1744919707
+8C:/Users/trinhdo/Code/KTMT/src/PC_Adder_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/PC_Adder_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/trinhdo/Code/KTMT/src/PC_Adder_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/PC_Adder_Tb.v|
+!i113 1
+R6
+R7
+n@p@c_@adder_tb
+vPC_Module
+R13
+!i10b 1
+!s100 J687M3zO]Z:?W=cQ=bMPR3
+I1ePbl1>dbZ_@BdDHKj`R<3
+R2
+R0
+w1744916586
+8C:/Users/trinhdo/Code/KTMT/src/PC.v
+FC:/Users/trinhdo/Code/KTMT/src/PC.v
+Z17 L0 16
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/trinhdo/Code/KTMT/src/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/PC.v|
+!i113 1
+R6
+R7
+n@p@c_@module
+vPC_Module_tb
+R8
+!i10b 1
+!s100 6:=j5]>TKoBd@3PGbRiho3
+IH=S1ZL6ojma6Z4InK>mCI0
+R2
+R0
+w1744919716
+8C:/Users/trinhdo/Code/KTMT/src/PC_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/PC_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/trinhdo/Code/KTMT/src/PC_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/PC_Tb.v|
+!i113 1
+R6
+R7
+n@p@c_@module_tb
+vRegister_File
+R13
+!i10b 1
+!s100 kIgHoGUUg40@=35CA3Z`D2
+I4PYVnaGBk9EF3US7h@F;Q1
+R2
+R0
+w1744916677
+8C:/Users/trinhdo/Code/KTMT/src/Register_File.v
+FC:/Users/trinhdo/Code/KTMT/src/Register_File.v
+R14
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/trinhdo/Code/KTMT/src/Register_File.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Register_File.v|
+!i113 1
+R6
+R7
+n@register_@file
+vRegister_File_tb
+R8
+!i10b 1
+!s100 PB0V`zV2@V@<KiWfjPzRM0
+IjX03Z<eb_VoD=1H1`cV8]3
+R2
+R0
+w1744919735
+8C:/Users/trinhdo/Code/KTMT/src/Register_File_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/Register_File_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/trinhdo/Code/KTMT/src/Register_File_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Register_File_Tb.v|
+!i113 1
+R6
+R7
+n@register_@file_tb
+vSign_Extend
+R13
+!i10b 1
+!s100 eJO:?P;homS[PLe^FfDbN1
+I3@Bhi0fI^@;Zn?HHmeUW[1
+R2
+R0
+w1744916701
+8C:/Users/trinhdo/Code/KTMT/src/Sign_Extend.v
+FC:/Users/trinhdo/Code/KTMT/src/Sign_Extend.v
+R17
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/trinhdo/Code/KTMT/src/Sign_Extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Sign_Extend.v|
+!i113 1
+R6
+R7
+n@sign_@extend
+vSign_Extend_tb
+R8
+!i10b 1
+!s100 jNEbminD2M9dcz23n[eE`0
+IMD?XVoi6BJ`maU:49BncV2
+R2
+R0
+w1744919744
+8C:/Users/trinhdo/Code/KTMT/src/Sign_Extend_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/Sign_Extend_Tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1744924455.000000
+!s107 C:/Users/trinhdo/Code/KTMT/src/Sign_Extend_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Sign_Extend_Tb.v|
+!i113 1
+R6
+R7
+n@sign_@extend_tb
+vSingle_Cycle_Top
+R13
+!i10b 1
+!s100 nMe[fN7z]o_7:Mman7AU=1
+IU=z@I<9V]fln:NNNSlli@0
+R2
+R0
+w1744917930
+8C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top.v
+FC:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top.v
+L0 117
+R4
+r1
+!s85 0
+31
+R10
+R15
+R16
+!i113 1
+R6
+R7
+n@single_@cycle_@top
+vSingle_Cycle_Top_Tb
+R13
+!i10b 1
+!s100 0<jn?a8e;Gn3F209H0TVa1
+IQ=D^31OZ3DHKi4@;IZG`i1
+R2
+R0
+w1744916723
+8C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb.v
+FC:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb.v
+L0 37
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb.v|
+!i113 1
+R6
+R7
+n@single_@cycle_@top_@tb

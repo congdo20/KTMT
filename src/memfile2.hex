@@ -1,0 +1,45 @@
+32'h0062E233;   //OR  0000_0000_0110_0010_1110_0010_0011_0011   //F3 -110 ->OR   // OR X4,X5,X6
+32'h00B67433;   //AND    0000_0000_1011_0110_0111_0100_0011_0011   //F3 -010 ->AND   // AND X8,X12,X11  
+32'h00B60433;   //ADD    0000_0000_1011_0110_0000_0100_0011_0011   //F3 -000 ->ADD   // ADD X8,X12,X11
+32'h41390433;   //SUB    0100_0001_0011_1001_0000_0100_0011_0011   //F3 -000 ->SUB   // SUB X8,X18,X19    
+32'h015A4433;   //XOR    0000_0001_0101_1010_0100_0100_0011_0011   //F3 -100 ->XOR   // XOR X8,X21,X20    
+32'h017B2433;   //SLT    0000_0001_0111_1011_0010_0100_0011_0011   //F3 -010 ->SLT   // SLT X8,X23,X22    
+32'h0004A483;   // lw x9, 0(x9)
+
+
+
+
+// 0062E233: ADDI x4, x0, 6
+// Cộng giá trị ngay lập tức 6 vào thanh ghi x0 (x0 luôn là 0), lưu kết quả vào x4.
+// Tức là x4 = 6
+0062E233
+
+// 00B67433: ADD x14, x13, x6
+// Cộng giá trị trong thanh ghi x13 và x6, lưu kết quả vào thanh ghi x14.
+// Tức là x14 = x13 + x6
+00B67433
+
+// 00B60433: ADD x8, x12, x6
+// Cộng giá trị trong thanh ghi x12 và x6, lưu kết quả vào thanh ghi x8.
+// Tức là x8 = x12 + x6
+00B60433
+
+// 41390433: ADD x9, x18, x2
+// Cộng giá trị trong thanh ghi x18 và x2, lưu kết quả vào thanh ghi x9.
+// Tức là x9 = x18 + x2
+41390433
+
+// 015A4433: ADD x8, x10, x5
+// Cộng giá trị trong thanh ghi x10 và x5, lưu kết quả vào thanh ghi x8.
+// Tức là x8 = x10 + x5
+015A4433
+
+// 017B2433: ADD x8, x15, x15
+// Cộng giá trị trong thanh ghi x15 và x15 (tức là x15 * 2), lưu kết quả vào thanh ghi x8.
+// Tức là x8 = x15 + x15 = 2 * x15
+017B2433
+
+// 0004A483: LBU x12, 4(x5)
+// Tải một byte không dấu từ địa chỉ (4 + giá trị của thanh ghi x5) và lưu vào thanh ghi x12.
+// Tức là x12 = Mem[x5 + 4] (byte tại địa chỉ này sẽ được tải vào x12)
+0004A483
