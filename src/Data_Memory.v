@@ -1,5 +1,3 @@
-
-
 module Data_Memory(clk,rst,WE,WD,A,RD);
 
     input clk,rst,WE;

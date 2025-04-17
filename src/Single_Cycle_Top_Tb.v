@@ -1,5 +1,3 @@
-
-
 module Single_Cycle_Top_Tb ();
     
     reg clk=1'b1,rst;
