@@ -1,0 +1,203 @@
+C:/Users/trinhdo/Code/KTMT/src/PC_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/PC_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC_Module_tb
+
+Top level modules:
+	PC_Module_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/ALU.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Data_Memory.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Data_Memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Mux.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux
+
+Top level modules:
+	Mux
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/PC_Adder.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/PC_Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC_Adder
+
+Top level modules:
+	PC_Adder
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/PC.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC_Module
+
+Top level modules:
+	PC_Module
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU_Decoder_tb
+
+Top level modules:
+	ALU_Decoder_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Register_ImmGen_tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Register_ImmGen_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Register_ImmGen_tb
+
+Top level modules:
+	Register_ImmGen_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU_Decoder
+
+Top level modules:
+	ALU_Decoder
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/PC_Adder_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/PC_Adder_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC_Adder_tb
+
+Top level modules:
+	PC_Adder_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Mux_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Mux_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux_tb
+
+Top level modules:
+	Mux_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Data_memory_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Data_memory_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Data_Memory_tb
+
+Top level modules:
+	Data_Memory_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/ALU_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/ALU_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Sign_Extend.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Sign_Extend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Sign_Extend
+
+Top level modules:
+	Sign_Extend
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Single_Cycle_Top_Tb
+
+Top level modules:
+	Single_Cycle_Top_Tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/PC_Instruction_DataMem_tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/PC_Instruction_DataMem_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC_Instruction_DataMem_tb
+
+Top level modules:
+	PC_Instruction_DataMem_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Register_File_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Register_File_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Register_File_tb
+
+Top level modules:
+	Register_File_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb2.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Single_Cycle_Top_Tb2
+
+Top level modules:
+	Single_Cycle_Top_Tb2
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU_Decoder
+-- Compiling module Main_Decoder
+-- Compiling module Control_Unit_Top
+
+Top level modules:
+	Control_Unit_Top
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Main_Decoder.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Main_Decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Main_Decoder
+
+Top level modules:
+	Main_Decoder
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC_Module
+-- Compiling module Instruction_Memory
+-- Compiling module Register_File
+-- Compiling module Sign_Extend
+-- Compiling module ALU
+-- Compiling module ALU_Decoder
+-- Compiling module Main_Decoder
+-- Compiling module Control_Unit_Top
+-- Compiling module Data_Memory
+-- Compiling module PC_Adder
+-- Compiling module Mux
+-- Compiling module Single_Cycle_Top
+
+Top level modules:
+	Single_Cycle_Top
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/ALU_Branch_tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/ALU_Branch_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU_Branch_tb
+
+Top level modules:
+	ALU_Branch_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Control_Unit_tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Control_Unit_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Control_Unit_tb
+
+Top level modules:
+	Control_Unit_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Sign_Extend_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Sign_Extend_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Sign_Extend_tb
+
+Top level modules:
+	Sign_Extend_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Main_Decoder_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Main_Decoder_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Main_Decoder_tb
+
+Top level modules:
+	Main_Decoder_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Instruction_Memory_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Instruction_Memory_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Instruction_Memory_tb
+
+Top level modules:
+	Instruction_Memory_tb
+
+} {} {}} C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top_Tb.v {1 {vlog -work work -stats=none C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top_Tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Control_Unit_Top_tb
+
+Top level modules:
+	Control_Unit_Top_tb
+
+} {} {}}
