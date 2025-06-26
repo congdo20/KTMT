@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dC:/Users/trinhdo/Code/KTMT/src
 vALU
-Z1 !s110 1745539283
+Z1 !s110 1745719485
 !i10b 1
 !s100 Te>K?FSKKaIFHIf64d:n93
 I4`OP9PA=7m8Y0JZJKB^0P1
@@ -23,7 +23,7 @@ Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z5 !s108 1745539283.000000
+Z5 !s108 1745719485.000000
 !s107 C:/Users/trinhdo/Code/KTMT/src/ALU.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/ALU.v|
 !i113 1
@@ -31,7 +31,7 @@ Z6 o-work work
 Z7 tCvgOpt 0
 n@a@l@u
 vALU_Branch_tb
-R1
+Z8 !s110 1745719486
 !i10b 1
 !s100 G0Nd<SNch6H>^G_mRjQ[N3
 IV==`:c^0@KIkYJnGWJnH20
@@ -45,7 +45,7 @@ R4
 r1
 !s85 0
 31
-R5
+Z9 !s108 1745719486.000000
 !s107 C:/Users/trinhdo/Code/KTMT/src/ALU_Branch_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/ALU_Branch_tb.v|
 !i113 1
@@ -75,7 +75,7 @@ R6
 R7
 n@a@l@u_@decoder
 vALU_Decoder_tb
-Z8 !s110 1745539282
+Z10 !s110 1745719484
 !i10b 1
 !s100 TeH@GmoH@=OX291MB483i3
 IF;NNNmzHGP_Bc[^`3lULL1
@@ -89,7 +89,7 @@ R4
 r1
 !s85 0
 31
-Z9 !s108 1745539282.000000
+Z11 !s108 1745719484.000000
 !s107 C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/ALU_Decoder_Tb.v|
 !i113 1
@@ -97,7 +97,7 @@ R6
 R7
 n@a@l@u_@decoder_tb
 vALU_tb
-R8
+R10
 !i10b 1
 !s100 X3MD?Q2R0AM>zMd=2[fkJ2
 I@T]]gZJWZY;azIT;UQTz02
@@ -111,7 +111,7 @@ R4
 r1
 !s85 0
 31
-R9
+R11
 !s107 C:/Users/trinhdo/Code/KTMT/src/ALU_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/ALU_Tb.v|
 !i113 1
@@ -119,7 +119,7 @@ R6
 R7
 n@a@l@u_tb
 vControl_Unit_tb
-R1
+R8
 !i10b 1
 !s100 [Z6Eh@PdQ02J6KQ;2lO<k1
 IinYL0beO]zf]JJRjF9G>12
@@ -133,7 +133,7 @@ R4
 r1
 !s85 0
 31
-R5
+R9
 !s107 C:/Users/trinhdo/Code/KTMT/src/Control_Unit_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Control_Unit_tb.v|
 !i113 1
@@ -156,14 +156,14 @@ r1
 !s85 0
 31
 R5
-Z10 !s107 Main_Decoder.v|ALU_Decoder.v|C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top.v|
-Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top.v|
+Z12 !s107 Main_Decoder.v|ALU_Decoder.v|C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top.v|
+Z13 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top.v|
 !i113 1
 R6
 R7
 n@control_@unit_@top
 vControl_Unit_Top_tb
-R8
+R10
 !i10b 1
 !s100 KU]6El9WAagO<?[GVMJf@2
 I4;UR@594e;d2R9gCDJzcj0
@@ -177,7 +177,7 @@ R4
 r1
 !s85 0
 31
-R9
+R11
 !s107 C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Control_Unit_Top_Tb.v|
 !i113 1
@@ -207,7 +207,7 @@ R6
 R7
 n@data_@memory
 vData_Memory_tb
-R8
+R10
 !i10b 1
 !s100 l0d2HjKc@ckIULd;eJUUM1
 IhaG<1b7S^j7;KVR^<^:bD0
@@ -221,7 +221,7 @@ R4
 r1
 !s85 0
 31
-R9
+R11
 !s107 C:/Users/trinhdo/Code/KTMT/src/Data_memory_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Data_memory_Tb.v|
 !i113 1
@@ -229,7 +229,7 @@ R6
 R7
 n@data_@memory_tb
 vInstruction_Memory
-R8
+R1
 !i10b 1
 !s100 kXoQJM^gnigaDA>_GEDfk2
 I6oZALn7L?Iec8c]1YP9:H2
@@ -243,15 +243,15 @@ R4
 r1
 !s85 0
 31
-R9
-Z12 !s107 Mux.v|PC_Adder.v|Data_Memory.v|Main_Decoder.v|ALU_Decoder.v|Control_Unit_Top.v|ALU.v|Sign_Extend.v|Register_File.v|Instruction_Memory.v|PC.v|C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top.v|
-Z13 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top.v|
+R11
+Z14 !s107 Mux.v|PC_Adder.v|Data_Memory.v|Main_Decoder.v|ALU_Decoder.v|Control_Unit_Top.v|ALU.v|Sign_Extend.v|Register_File.v|Instruction_Memory.v|PC.v|C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top.v|
 !i113 1
 R6
 R7
 n@instruction_@memory
 vInstruction_Memory_tb
-R8
+R10
 !i10b 1
 !s100 z4c1G]^E;zQnS_4AkXYSH3
 I4oHVUXoTYSE60Xn[6NIE;0
@@ -265,7 +265,7 @@ R4
 r1
 !s85 0
 31
-R9
+R11
 !s107 C:/Users/trinhdo/Code/KTMT/src/Instruction_Memory_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Instruction_Memory_Tb.v|
 !i113 1
@@ -288,14 +288,14 @@ r1
 !s85 0
 31
 R5
-R10
-R11
+R12
+R13
 !i113 1
 R6
 R7
 n@main_@decoder
 vMain_Decoder_tb
-R8
+R10
 !i10b 1
 !s100 37JS2CcYzfcL7=<8OmSMA0
 IGDf`OOhg;ch;500:hTjGC2
@@ -309,7 +309,7 @@ R4
 r1
 !s85 0
 31
-R9
+R11
 !s107 C:/Users/trinhdo/Code/KTMT/src/Main_Decoder_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Main_Decoder_Tb.v|
 !i113 1
@@ -339,7 +339,7 @@ R6
 R7
 n@mux
 vMux_tb
-R8
+R10
 !i10b 1
 !s100 1LPPb1_QOLf?<UeQcHjT^0
 I4Kd]eO0WganjA=45_m^A;0
@@ -353,7 +353,7 @@ R4
 r1
 !s85 0
 31
-R9
+R11
 !s107 C:/Users/trinhdo/Code/KTMT/src/Mux_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Mux_Tb.v|
 !i113 1
@@ -361,7 +361,7 @@ R6
 R7
 n@mux_tb
 vPC_Adder
-R8
+R1
 !i10b 1
 !s100 GWnN@z;_VoG`>3EmTE26k1
 IzQe@EINJf0molge2j`4F03
@@ -375,7 +375,7 @@ R4
 r1
 !s85 0
 31
-R9
+R5
 !s107 C:/Users/trinhdo/Code/KTMT/src/PC_Adder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/PC_Adder.v|
 !i113 1
@@ -383,7 +383,7 @@ R6
 R7
 n@p@c_@adder
 vPC_Adder_tb
-R8
+R10
 !i10b 1
 !s100 VNjiG8;3RNTmknmNabhB@1
 I5>BgMlLH>cSL^QjiI6E9n1
@@ -397,7 +397,7 @@ R4
 r1
 !s85 0
 31
-R9
+R11
 !s107 C:/Users/trinhdo/Code/KTMT/src/PC_Adder_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/PC_Adder_Tb.v|
 !i113 1
@@ -412,44 +412,44 @@ ISIzPQzl0N0CgTaSY<l0ad1
 R2
 R0
 w1744936873
-Z14 8C:/Users/trinhdo/Code/KTMT/src/PC_Instruction_DataMem_tb.v
-Z15 FC:/Users/trinhdo/Code/KTMT/src/PC_Instruction_DataMem_tb.v
-Z16 L0 54
+Z16 8C:/Users/trinhdo/Code/KTMT/src/PC_Instruction_DataMem_tb.v
+Z17 FC:/Users/trinhdo/Code/KTMT/src/PC_Instruction_DataMem_tb.v
+Z18 L0 54
 R4
 r1
 !s85 0
 31
 !s108 1744936884.000000
-Z17 !s107 C:/Users/trinhdo/Code/KTMT/src/PC_Instruction_DataMem_tb.v|
-Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/PC_Instruction_DataMem_tb.v|
+Z19 !s107 C:/Users/trinhdo/Code/KTMT/src/PC_Instruction_DataMem_tb.v|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/PC_Instruction_DataMem_tb.v|
 !i113 1
 R6
 R7
 n@p@c_@i@mem_@d@mem_tb
 vPC_Instruction_DataMem_tb
-R1
+R8
 !i10b 1
 !s100 I`?kHU[05dP:ZSommJLE=2
 IE419QWILn<z0Qf0fIGTh]1
 R2
 R0
 w1744937469
-R14
-R15
 R16
+R17
+R18
 R4
 r1
 !s85 0
 31
-R5
-R17
-R18
+R9
+R19
+R20
 !i113 1
 R6
 R7
 n@p@c_@instruction_@data@mem_tb
 vPC_Module
-R8
+R1
 !i10b 1
 !s100 J687M3zO]Z:?W=cQ=bMPR3
 I1ePbl1>dbZ_@BdDHKj`R<3
@@ -458,12 +458,12 @@ R0
 w1744916586
 8C:/Users/trinhdo/Code/KTMT/src/PC.v
 FC:/Users/trinhdo/Code/KTMT/src/PC.v
-Z19 L0 16
+Z21 L0 16
 R4
 r1
 !s85 0
 31
-R9
+R5
 !s107 C:/Users/trinhdo/Code/KTMT/src/PC.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/PC.v|
 !i113 1
@@ -471,7 +471,7 @@ R6
 R7
 n@p@c_@module
 vPC_Module_tb
-Z20 !s110 1745539281
+R10
 !i10b 1
 !s100 6:=j5]>TKoBd@3PGbRiho3
 IH=S1ZL6ojma6Z4InK>mCI0
@@ -485,7 +485,7 @@ R4
 r1
 !s85 0
 31
-Z21 !s108 1745539281.000000
+R11
 !s107 C:/Users/trinhdo/Code/KTMT/src/PC_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/PC_Tb.v|
 !i113 1
@@ -493,7 +493,7 @@ R6
 R7
 n@p@c_@module_tb
 vRegister_File
-R8
+R1
 !i10b 1
 !s100 kIgHoGUUg40@=35CA3Z`D2
 I4PYVnaGBk9EF3US7h@F;Q1
@@ -507,7 +507,7 @@ R4
 r1
 !s85 0
 31
-R9
+R5
 !s107 C:/Users/trinhdo/Code/KTMT/src/Register_File.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Register_File.v|
 !i113 1
@@ -515,7 +515,7 @@ R6
 R7
 n@register_@file
 vRegister_File_tb
-R20
+R10
 !i10b 1
 !s100 PB0V`zV2@V@<KiWfjPzRM0
 IjX03Z<eb_VoD=1H1`cV8]3
@@ -529,7 +529,7 @@ R4
 r1
 !s85 0
 31
-R21
+R11
 !s107 C:/Users/trinhdo/Code/KTMT/src/Register_File_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Register_File_Tb.v|
 !i113 1
@@ -537,7 +537,7 @@ R6
 R7
 n@register_@file_tb
 vRegister_ImmGen_tb
-R1
+R8
 !i10b 1
 !s100 31Efj6Oz>X5ZRW:kK_CBT3
 I60AZoR;>C[ln;hi=8>3oK2
@@ -551,7 +551,7 @@ R4
 r1
 !s85 0
 31
-R5
+R9
 !s107 C:/Users/trinhdo/Code/KTMT/src/Register_ImmGen_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Register_ImmGen_tb.v|
 !i113 1
@@ -559,7 +559,7 @@ R6
 R7
 n@register_@imm@gen_tb
 vSign_Extend
-R8
+R1
 !i10b 1
 !s100 eJO:?P;homS[PLe^FfDbN1
 I3@Bhi0fI^@;Zn?HHmeUW[1
@@ -568,12 +568,12 @@ R0
 w1744916701
 8C:/Users/trinhdo/Code/KTMT/src/Sign_Extend.v
 FC:/Users/trinhdo/Code/KTMT/src/Sign_Extend.v
-R19
+R21
 R4
 r1
 !s85 0
 31
-R9
+R5
 !s107 C:/Users/trinhdo/Code/KTMT/src/Sign_Extend.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Sign_Extend.v|
 !i113 1
@@ -581,7 +581,7 @@ R6
 R7
 n@sign_@extend
 vSign_Extend_tb
-R20
+R10
 !i10b 1
 !s100 jNEbminD2M9dcz23n[eE`0
 IMD?XVoi6BJ`maU:49BncV2
@@ -595,7 +595,7 @@ R4
 r1
 !s85 0
 31
-R21
+R11
 !s107 C:/Users/trinhdo/Code/KTMT/src/Sign_Extend_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Sign_Extend_Tb.v|
 !i113 1
@@ -603,7 +603,7 @@ R6
 R7
 n@sign_@extend_tb
 vSingle_Cycle_Top
-R8
+R1
 !i10b 1
 !s100 nMe[fN7z]o_7:Mman7AU=1
 IU=z@I<9V]fln:NNNSlli@0
@@ -617,15 +617,15 @@ R4
 r1
 !s85 0
 31
-R9
-R12
-R13
+R11
+R14
+R15
 !i113 1
 R6
 R7
 n@single_@cycle_@top
 vSingle_Cycle_Top_Tb
-R8
+R1
 !i10b 1
 !s100 0<jn?a8e;Gn3F209H0TVa1
 IQ=D^31OZ3DHKi4@;IZG`i1
@@ -639,7 +639,7 @@ R4
 r1
 !s85 0
 31
-R9
+R5
 !s107 C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb.v|
 !i113 1
@@ -647,7 +647,7 @@ R6
 R7
 n@single_@cycle_@top_@tb
 vSingle_Cycle_Top_Tb2
-R1
+R8
 !i10b 1
 !s100 0;=HEQMHPD07Ji1EVR0]>3
 I?zjM<Y@VR8G04J[@Nc0JY2
@@ -661,7 +661,7 @@ R4
 r1
 !s85 0
 31
-R5
+R9
 !s107 C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb2.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/trinhdo/Code/KTMT/src/Single_Cycle_Top_Tb2.v|
 !i113 1
