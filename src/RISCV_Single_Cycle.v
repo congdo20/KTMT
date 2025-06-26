@@ -114,7 +114,7 @@
 // `include "PC_Adder.v"          // Mô-đun cộng địa chỉ
 // `include "Mux.v"               // Mô-đun multiplexer (chọn tín hiệu)
 
-module Single_Cycle_Top(
+module RISCV_Single_Cycle(
     input clk,  // Tín hiệu đồng hồ
     input rst   // Tín hiệu reset
 );

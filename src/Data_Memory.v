@@ -52,3 +52,8 @@ module Data_Memory(clk, rst, WE, WD, A, RD);
     end
 
 endmodule
+
+
+// python3 /srv/calab_grade/CA_Lab-2025/scripts/calab_grade.py sc1 ALU.v ALU_Decoder.v Branch_Com.v Data_Memory.v Instruction_Memory.v Sign_Extend.v PC.v Register_File.v Control_Unit_Top.v Main_Decoder.v Single_Cycle_Top.v
+// python3 /srv/calab_grade/CA_Lab-2025/scripts/calab_grade.py sc1 ALU_Tb.v ALU_Decoder_Tb.v Data_memory_Tb.v Instruction_Memory_Tb.v Sign_Extend_Tb.v PC_Tb.v Register_File_Tb.v Control_Unit_tb.v Main_Decoder_Tb.v Single_Cycle_Top_Tb.v
+// python3 /srv/calab_grade/CA_Lab-2025/scripts/calab_grade.py sc1 Single_Cycle_Top_Tb.v
